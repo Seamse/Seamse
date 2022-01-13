@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seamse
-- 👀 I’m interested in so many things I can't think of a single one right now
+- 👀 I’m interested in so many things I can't think of just one right now
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on creativity
 - 📫 How to reach me: send me a carrier pigeon any time.
