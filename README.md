@@ -1,7 +1,7 @@
 👋 Hi! I’m Monique,  
 - 
 - 👀 I’m interested in discovering new challenges
-- 🌱 I’m currently expanding my coding knowledge at code institute, which is definitely a fun challenge
+- 🌱 I recently finished expanding my coding knowledge at code institute, which was definitely a fun challenge
 - 💞️ I’m looking to collaborate on creativity and soak up any and all useful coding knowledge
 - 📫 How to reach me: send me a carrier pigeon any time! 
 
